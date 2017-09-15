@@ -3,7 +3,7 @@
 
 # Cookie effect handler for re-frame
 
-This [re-frame](https://github.com/Day8/re-frame) library contains an [cookie] [effect handler](https://github.com/Day8/re-frame/tree/develop/docs). The handler can be addressed by `:cookie` and uses the [goog.net.cookies](https://google.github.io/closure-library/api/goog.net.Cookies.html) API.
+This [re-frame](https://github.com/Day8/re-frame) library contains an cookie [effect handler](https://github.com/Day8/re-frame/tree/develop/docs). The handler can be addressed by `:cookie` and uses the [goog.net.cookies](https://google.github.io/closure-library/api/goog.net.Cookies.html) API.
 
 ## Getting started
 
